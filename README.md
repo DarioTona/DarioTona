@@ -24,3 +24,17 @@ In this GitHub profile, you will find a collection of **personal projects** deve
 
 **Please note:** all projects in these repositories were developed outside of my academic thesis and professional role.
 
+
+
+
+
+
+---
+
+## 📝 Projects
+
+| Repository | Description | Topics |
+|-----------|------------|--------|
+| *(coming soon)* Counterparty Risk Modelling | Exposure modelling and backtesting for energy markets | Risk, Quantitative Modelling |
+| *(coming soon)* Time Series & Monte Carlo | Stochastic models and Monte Carlo simulations | Time Series, Simulation |
+| *(coming soon)* Energy Market Analysis | Price dynamics and volatility analysis | Energy Markets |
