@@ -35,6 +35,6 @@ In this GitHub profile, you will find a collection of **personal projects** deve
 
 | Repository | Description | Topics |
 |-----------|------------|--------|
-| *(coming soon)* Counterparty Risk Modelling | Exposure modelling and backtesting for energy markets | Risk, Quantitative Modelling |
+| [portfolio-parametric-var-es](https://github.com/DarioTona/portfolio-parametric-var-es) | Parametric Estimation of Value at Risk and Expected Shortfall for Multi-Asset Portfolios | Risk, Quantitative Modelling|
 | *(coming soon)* Time Series & Monte Carlo | Stochastic models and Monte Carlo simulations | Time Series, Simulation |
 | *(coming soon)* Energy Market Analysis | Price dynamics and volatility analysis | Energy Markets |
