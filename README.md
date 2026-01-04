@@ -36,5 +36,4 @@ In this GitHub profile, you will find a collection of **personal projects** deve
 | Repository | Description | Topics |
 |-----------|------------|--------|
 | [portfolio-parametric-var-es](https://github.com/DarioTona/portfolio-parametric-var-es) | Parametric Estimation of Value at Risk and Expected Shortfall for Multi-Asset Portfolios | Risk, Quantitative Modelling|
-| *(coming soon)* Time Series & Monte Carlo | Stochastic models and Monte Carlo simulations | Time Series, Simulation |
-| *(coming soon)* Energy Market Analysis | Price dynamics and volatility analysis | Energy Markets |
+| [italy-power-price-forecast](https://github.com/DarioTona/italy-power-price-forecasting) | PUN index (GME) — Daily Forecasting with Terna Generation & Load data | Energy Markets, Linear Regression, Forecasting|
