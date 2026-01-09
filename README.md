@@ -1,4 +1,4 @@
-## 👋  Hi, I am Dario
+## Hi, I am Dario
 
 <!--
 **DarioTona/DarioTona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am a **Risk Analyst at the Italian Power Exchange (GME)** and hold a **Master’s degree in Physics** from the **University of Pavia**.
 
-🎓 During my master’s studies, I spent six months at the **Technical University of Vienna (TU Wien)**, where I worked on my **master’s thesis in quantum thermodynamics**.
+During my master’s studies, I spent six months at the **Technical University of Vienna (TU Wien)**, where I worked on my **master’s thesis in quantum thermodynamics**.
 
-📊 I have a strong interest in **quantitative research, financial markets, and risk modelling**.  
-In this GitHub profile, you will find a collection of **personal projects** developed in my free time, focusing on quantitative modelling, Monte Carlo simulations, machine learning, and time series analysis.
+I have a strong interest in **quantitative research, financial markets, and risk modelling**.  
+In this GitHub profile, you will find a collection of **personal projects** developed in my free time, focusing on quantitative modelling, Monte Carlo simulations, machine learning, stochastic processes and time series analysis.
 
 **Please note:** all projects in these repositories were developed outside of my academic thesis and professional role.
 
