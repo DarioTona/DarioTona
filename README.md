@@ -37,4 +37,5 @@ In this GitHub profile, you will find a collection of **personal projects** deve
 |-----------|------------|--------|
 | [portfolio-parametric-var-es](https://github.com/DarioTona/portfolio-parametric-var-es) | Parametric Estimation of Value at Risk and Expected Shortfall for Multi-Asset Portfolios | Risk, Quantitative Modelling|
 | [italy-power-price-forecast](https://github.com/DarioTona/italy-power-price-forecasting) | PUN index (GME) — Daily Forecasting with Terna Generation & Load data | Energy Markets, Linear Regression, Forecasting|
+|[implied_volatility_surface_USO](https://github.com/DarioTona/implied_volatility_surface_USO) | Implied volatility surface construction from US crude oil ETF option chains | Implied volatility, Black&Scholes, Newton-Rapson, Commodities|
 |[monte-carlo-gbm-european-call](https://github.com/DarioTona/monte-carlo-gbm-european-call) | Monte Carlo Simulation of Geometric Brownian Motion: AAPL Forecasting and European Call Pricing | Montecarlo simulation, Geometric Brownian Motion, Option pricing|
